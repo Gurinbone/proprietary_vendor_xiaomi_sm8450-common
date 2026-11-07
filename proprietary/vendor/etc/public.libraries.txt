@@ -4,7 +4,14 @@ libcdsprpc.so
 libsdsprpc.so
 libfastcvopt.so
 libOpenCL.so
+libc++_shared.so
+libsnpe_loader.so
 libSNPE.so
+libSnpeCpu.so
+libSnpeGpu.so
+libSnpeHtpV69Stub.so
+libsnpe_dsp_domains_v2.so
+libsnpe_dsp_domains_v3.so
 libmialgo_ai_vision.so
 libmialgo_utils.so
 libxmi_slow_motion_mein.so
