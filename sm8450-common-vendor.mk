@@ -248,7 +248,7 @@ PRODUCT_PACKAGES += \
     libllvm-glnext \
     libllvm-qcom \
     libllvm-qgl \
-    vendor.qti.qspmhal@1.0 \
+    vendor.qti.qspmhal@1.0_vendor \
     android.hardware.secure_element@1.0-impl \
     btaudio_offload_if \
     com.qualcomm.qti.dpm.api@1.0_vendor \
